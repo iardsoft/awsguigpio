@@ -1,0 +1,12 @@
+<html>
+   <head>
+      <title>AWSguiGPIO</title>
+   </head>
+   <body>
+      <h1>AWSguiGPIO</h1>
+      <h2>Raspberry GPIO with Ada Web Server</h2>
+      <p>LED status: @_COUNTER_@</p>
+      <p><a href="/add?CTX_WB=@_CTX_WB_@">Turn ON</a></p>
+      <p><a href="/sub?CTX_WB=@_CTX_WB_@">Turn OFF</a></p>
+   </body>
+</html>
